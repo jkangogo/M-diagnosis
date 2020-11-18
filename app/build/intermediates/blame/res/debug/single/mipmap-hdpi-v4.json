@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\image.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\mipmap-hdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\hospital.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\mipmap-hdpi\\hospital.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\search.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\mipmap-hdpi\\search.png"
+    }
+]

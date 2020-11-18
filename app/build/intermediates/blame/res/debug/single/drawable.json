@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\session.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\session.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital_place_icon.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\hospital_place_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_gray_border_bottom.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\white_gray_border_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\img.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tiles_shape.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\tiles_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\7.8.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_instagram.jpg",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\ic_instagram.jpg"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gpsmap.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\gpsmap.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_linkedin.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\ic_linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapsnav.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\mapsnav.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diagnosis1.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\diagnosis1.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\items.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\items.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_github.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\ic_github.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joel.jpg",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\joel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aurum_icon_white.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\aurum_icon_white.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diagnosis.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\diagnosis.png"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\disclaimer.png",
+        "source": "C:\\Users\\joelk\\AndroidStudioProjects\\Final_year-Hen\\app\\src\\main\\res\\drawable\\disclaimer.png"
+    }
+]

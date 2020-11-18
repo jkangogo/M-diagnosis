@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.kiprotich.kangogo">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permisson.READ_GSERVICES" />
+
+<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="@string/google_maps_key" />
+<permission android:name="package.name.permission.MAPS_RECEIVE" android:protectionLevel="signature" />
+<uses-feature android:glEsVersion="0x00020000" android:required="true" />
+
+
+
+<!-- uses-permission android:name="android.permission.INTERNET" / -->
+<application android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name"
+    android:theme="@style/MyMaterialTheme"
+    tools:ignore="GoogleAppIndexingWarning">
+
+    <uses-library android:name="com.google.android.maps" />
+
+    <activity android:name="com.kiprotich.kangogo.Splash" android:label="M diagnosis" android:theme="@style/ColorfulActionBarTheme">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+    <activity android:name="com.kiprotich.kangogo.MainActivity" android:label="M diagnosis">
+        <intent-filter>
+            <action android:name="android.intent.action.MAINACTIVITY" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+    <activity android:name="com.kiprotich.kangogo.LoginActivity" android:label="M diagnosis">
+        <intent-filter>
+            <action android:name="android.intent.action.LOGIN" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+    <activity android:name="com.kiprotich.kangogo.Diagnosis" android:label="M diagnosis" android:theme="@style/Theme.Transparent">
+        <intent-filter>
+            <action android:name="android.intent.action.DIAGNOSIS" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+    <activity android:name="com.kiprotich.kangogo.UserManual" android:label="M diagnosis" android:theme="@style/ColorfulActionBarTheme">
+        <intent-filter>
+            <action android:name="android.intent.action.UserManual" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+    <activity android:name="com.kiprotich.kangogo.AboutActivity" android:label="M diagnosis" >
+        <intent-filter>
+            <action android:name="android.intent.action.AboutActivity" />
+
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+    </activity>
+
+    <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.fonts").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+    <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyBJX7mRhLKw91rZNzzwXgRoLn626nHeiOI" />
+
+    <activity android:name="com.kiprotich.kangogo.MapsActivity2" android:label="@string/title_activity_maps2"></activity>
+    <activity android:name="com.kiprotich.kangogo.testactivity"></activity>
+</application>
+
+</manifest>
+

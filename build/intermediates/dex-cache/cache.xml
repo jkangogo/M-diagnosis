@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.8.0_b8de7bb5a5fe41fff1eee357e11d47a78013092c.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\28.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef698b3c8609d86cac06834429a39ef417d5b57a">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-28.0.0_3b9572ac8c56d47aef177f7167b73f3158ebff68.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-7.8.0_27421940a763be33293962c4b0ca0fd03def9c8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-7.8.0_7f42bff1aa1f4f948149c03d85e15d6ddb555ee6.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-7.8.0_5ef3690863cf9640664844769b7df3992a82349b.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\28.0.0\ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8\support-annotations-28.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\support-annotations-28.0.0_e35808f00a687a2236b461a7e9577af33eba35f0.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_12af6154b464edc5c988b3f0e54e1eec52d2e2b1.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.8.0_4436247b5f78beab22e01c7a8865a6a39df46110.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-7.8.0_950f844e808182c1cea34b63cf07a0c1a9b645cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-7.8.0_63bca4714f9c57b92be1def1ff9c402010eca95d.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-7.8.0_58c89ab57dd9758d56ba2ca9e6dcc1ea6c579319.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_9764a10366c494c6bc56a19919034992b3e29c89.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-7.8.0_f16da2a282ab4edbde968e35fea9a5b8eed29c40.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-7.8.0_a7f608b8f70de6d7e8f3e1539cd28227e65fcf0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-7.8.0_767acbcd5c9a7d3989ef93fa7bfae167891535d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.0.1_57372daecd9751c4b9444734abc871f161bbd560.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_967fc90386a2ee828a4e7a4e8a934bb6c6aa99aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-7.8.0_27ae841efb043e91691b8f9b4af85dfb0f90e05c.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appstate-7.8.0_7148988320c3e89b522d2bbfe173211ffaaea4d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-7.8.0_29b82af3af50fc8aa757bd132802d35f9f8a1693.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-7.8.0_6e3e5f1b2433f7a5fc1423279877fcaff0f0ead6.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-7.8.0_7cc36c7ffbb4724f2b609baca8419b3a26f18ecd.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_f13f4d4f74277e16152a774817f3336caa92861c.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_978c4e8921e8555ea7b8217d30455e234a6b2543.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_74ff18590d349aa518b8dbb3415ddb8f0dbc49d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-7.8.0_9465fc7a0628177c5f460dc4112dbbbefe5acf24.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-7.8.0_ba3e2dd5170a44311545383a308a3fa859cc7ccf.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-7.8.0_79286f91574588b12b836d44635277dffc788a3d.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-7.8.0_b8c2bb85c99d09d641be923990a5cbfd27377a50.jar" />
+    </item>
+    <item
+        jar="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\joelk\AndroidStudioProjects\Final_year-Hen\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-7.8.0_f5879e57aa57b1155cccf4a04bc43b9c76fef696.jar" />
+    </item>
+
+</items>

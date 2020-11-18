@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">M diagnosis</string>
+    <string name="help_text">User Manual</string>
+    <string name="action_settings">Settings</string>
+    <string name="copyright">Kangogo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="get_answer">Click to get Selected Answer</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="student_name">Kangogo Kiprotich Joel</string>
+    <string name="student_id_details">BSc. in Information Technology\nRegNo: BIT/0056/16</string>
+    <string name="kangogo">M diagnosis</string>
+
+
+</resources>
