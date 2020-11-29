@@ -1,5 +1,4 @@
 # M-diagnosis
-##An health app for self-diagnosis anywhere
 ![session](https://user-images.githubusercontent.com/46781298/100546643-7b86ed00-3273-11eb-8210-83b12848464d.png)
 ![WhatsApp Image 2020-11-29 at 18 43 18](https://user-images.githubusercontent.com/46781298/100546679-ab35f500-3273-11eb-9601-03f2b11914c6.jpeg)
 ![mapsNav](https://user-images.githubusercontent.com/46781298/100546650-880b4580-3273-11eb-82c7-e64ef9e4fd2d.png)
